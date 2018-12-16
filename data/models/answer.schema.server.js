@@ -1,6 +1,4 @@
 const mongoose = require('mongoose');
-// const studentModel = require('./student.model.server');
-// const questionModel = require('./question.model.server');
 
 const answerSchema = mongoose.Schema(
     {
